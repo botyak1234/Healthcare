@@ -1,0 +1,12 @@
+C:\HealthcareApp\HealthcareApp.ServiceDefaults\bin\Debug\net10.0\HealthcareApp.ServiceDefaults.deps.json
+C:\HealthcareApp\HealthcareApp.ServiceDefaults\bin\Debug\net10.0\HealthcareApp.ServiceDefaults.dll
+C:\HealthcareApp\HealthcareApp.ServiceDefaults\bin\Debug\net10.0\HealthcareApp.ServiceDefaults.pdb
+C:\HealthcareApp\HealthcareApp.ServiceDefaults\obj\Debug\net10.0\HealthcareApp.ServiceDefaults.csproj.AssemblyReference.cache
+C:\HealthcareApp\HealthcareApp.ServiceDefaults\obj\Debug\net10.0\HealthcareApp.ServiceDefaults.GeneratedMSBuildEditorConfig.editorconfig
+C:\HealthcareApp\HealthcareApp.ServiceDefaults\obj\Debug\net10.0\HealthcareApp.ServiceDefaults.AssemblyInfoInputs.cache
+C:\HealthcareApp\HealthcareApp.ServiceDefaults\obj\Debug\net10.0\HealthcareApp.ServiceDefaults.AssemblyInfo.cs
+C:\HealthcareApp\HealthcareApp.ServiceDefaults\obj\Debug\net10.0\HealthcareApp.ServiceDefaults.csproj.CoreCompileInputs.cache
+C:\HealthcareApp\HealthcareApp.ServiceDefaults\obj\Debug\net10.0\HealthcareApp.ServiceDefaults.dll
+C:\HealthcareApp\HealthcareApp.ServiceDefaults\obj\Debug\net10.0\refint\HealthcareApp.ServiceDefaults.dll
+C:\HealthcareApp\HealthcareApp.ServiceDefaults\obj\Debug\net10.0\HealthcareApp.ServiceDefaults.pdb
+C:\HealthcareApp\HealthcareApp.ServiceDefaults\obj\Debug\net10.0\ref\HealthcareApp.ServiceDefaults.dll
